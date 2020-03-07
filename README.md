@@ -8,6 +8,6 @@ This is a sample repo created for unit testing beginners. The link to the corres
 3. Run - npm i
 4. Run - npm run coverage
 
-# Video tutorial web-series
+## Video tutorial web-series
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NBjYY8P08lI/0.jpg)](https://www.youtube.com/watch?v=NBjYY8P08lI&list=%20-vU0JLfDBsZGbSUdNX4mQ8)
