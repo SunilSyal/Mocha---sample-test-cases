@@ -5,8 +5,8 @@ This is a sample repo created for unit testing beginners. The link to the corres
 ## Steps to run the test cases:
 1. Clone the repo
 2. Open terminal and navigate to the repo
-3. Run - npm i
-4. Run - npm run coverage
+3. Run - ```npm i```
+4. Run - ```npm run coverage```
 
 ## Video tutorial web-series
 
