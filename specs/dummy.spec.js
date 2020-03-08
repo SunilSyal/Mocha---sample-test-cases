@@ -6,3 +6,8 @@ describe("Dummy test suit", function() {
     expect(true).to.be.true;
   });
 });
+
+// Root level hook
+beforeEach(function() {
+  console.log("------------ Root level hook in dummy.spec.js");
+});

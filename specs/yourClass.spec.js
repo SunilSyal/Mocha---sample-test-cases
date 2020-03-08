@@ -9,3 +9,8 @@ describe("Test suit ", function() {
     expect(yourObj.addSubtract(1, 2, true)).to.equal(3);
   });
 });
+
+// Root level hook
+beforeEach(function() {
+  console.log("------------ Root level hook in yourClass.spec.js");
+});
